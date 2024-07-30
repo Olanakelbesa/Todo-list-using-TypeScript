@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/task-manager.git
 
 2. Navigate to the project directory:
 ```sh
-cd task-manager
+cd ToDo-list with Typescript
 ```
 3. Install the dependencies:
 ```sh
